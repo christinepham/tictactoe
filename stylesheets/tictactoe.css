@@ -1,0 +1,54 @@
+.container {
+  text-align: center;
+}
+
+.header {
+  font: 30px 'Raleway', Helvetica, sans-serif;
+}
+
+#description {
+  font-size: 15px;
+}
+
+#message {
+  font-size: 20px;
+}
+
+.gameboard {
+  display: inline-block;
+  margin-top: 2%;
+}
+
+.square{
+  width: 100px;
+  height: 100px;
+}
+
+.v-border{
+  border-right: 2px solid #333;
+}
+
+.h-border{
+  border-bottom: 2px solid #333;
+}
+
+.button {
+  padding-top: 2%;
+}
+
+#restart {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 8px;
+}
+
+table {
+  font: 30px 'Raleway', Helvetica, sans-serif;
+  background-color: #F8F8FF;
+  text-align: center;
+}
