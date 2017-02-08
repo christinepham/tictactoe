@@ -3,6 +3,8 @@ Basic Game using JavaScript and JQuery
 
 Uses a table to create the board game.
 
+To View Click [Here](http://codepen.io/christinepham/full/WRgMrV)
+
 Currently does the following:
 - Tells you if a space has been selected
 - Let's you restart the game (will clear the board)
